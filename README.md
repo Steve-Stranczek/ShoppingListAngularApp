@@ -1,3 +1,5 @@
+This project is me following along a udemy tutorial on angular found here.  https://www.udemy.com/course/the-complete-guide-to-angular-2
+
 # ShoppingListRecipeBookApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
